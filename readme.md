@@ -14,3 +14,11 @@ trong đó "ABC" là bình luận mình cần đánh giá.
 - Cài đặt xampp.
 - File data mysql: db_green (4).sql
 - [Hướng dẫn run code](https://www.youtube.com/watch?v=Zvxcb4JwfJ4)
+
+#####Chạy toàn bài
+- chạy code phần API
+- chạy code website giao diện khách hàng bằng đường dẫn:
+> http://localhost/TTTN-Green
+- chạy code website giao diện người quản lý bằng đường dẫn:
+> http://localhost/TTTN-Green/admin
+tài khoản: greenadmin   Mật khẩu: 123456
